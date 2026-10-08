@@ -1,0 +1,3 @@
+# name/email live in ~/.gitconfig.local (not versioned)
+[include]
+	path = ~/.gitconfig.local
