@@ -1,0 +1,8 @@
+# Copy to ~/.zshrc.local. This file is NOT versioned.
+
+# Read tokens from a vault, never write them here:
+# alias deploy-app='curl -fsS "$(op read "op://Private/envoyer/deploy-url")"'
+
+# Machine-specific PATH:
+# export PATH="$HOME/.opencode/bin:$PATH"
+# export PATH="$PATH:$HOME/.turso"
